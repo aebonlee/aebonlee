@@ -6,6 +6,10 @@
 </div>
 
 <br><br><br><br><br><br><br><br><br>
+<table><tr><td valign="top" width="33%">
+
+
+
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -64,7 +68,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr></table> 
 
 <br/>
 
