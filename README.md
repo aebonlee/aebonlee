@@ -1,5 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee)](https://github.com/aebonlee/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aebonlee&show_icons=true&theme=radical)
 
 <div>
