@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=♡_LEE_AE_BON_♡&fontAlign=50&fontAlignY=40&color=gradient)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aebonlee&show_icons=true&theme=radical)
 
 <div>
