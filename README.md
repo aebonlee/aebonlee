@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=♡_LEE_AE_BON_♡&fontAlign=50&fontAlignY=40&color=gradient)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aebonlee&show_icons=true&theme=radical)
 
+<div> 
+  100여개 자격증 보유 / 직업능력개발훈련교사 NCS 16직종 
+</div>
+
 <div>
   <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
