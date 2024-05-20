@@ -9,10 +9,8 @@
 <br/><br/>
 <br/><br/>
 <br/><br/>
-<br/><br/>
-<br/><br/>
 
-# 애용하는 스택
+## 애용하는 스택
 * Python, Javascript, Django, Node, Firebase, AWS, MongoDB, MySQL, Git(github, gitlab)
 <br/><br/>
 <br/><br/>
