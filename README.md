@@ -9,13 +9,14 @@
 <br/><br/>
 <br/><br/>
 <br/><br/>
-
+<br/><br/>
+<br/><br/>
 
 ## 애용하는 스택
 * Python, Javascript, Django, Node, Firebase, AWS, MongoDB, MySQL, Git(github, gitlab)
 <br/><br/>
 <br/><br/>
-<br/><br/>
+
 ### Main Tools
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px"/>
@@ -28,8 +29,6 @@
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/aws-rds.png" alt="aws rds" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/jwt.png" alt="jwt" height="50px"/>
 </div>
-
-
 
 
 ### Currently Developing Tools
