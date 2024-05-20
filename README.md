@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aebonlee&show_icons=true&theme=radical)
 
 <div> 
-  100여개 자격증 보유 / 직업능력개발훈련교사 NCS 16직종 
+  100여개 자격증 보유 / 직업능력개발훈련교사 NCS 16직종 </br>
 </div>
 
 <div>
