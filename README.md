@@ -1,9 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=♡_LEE_AE_BON_♡&fontAlign=50&fontAlignY=40&color=gradient)
-
-
 <a href="https://github.com/aebonlee" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -35,6 +32,8 @@
 <br/><br/>
 <br/><br/>
 <br/><br/>
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=♡_LEE_AE_BON_♡&fontAlign=50&fontAlignY=40&color=gradient)
+
 
 ## 애용하는 스택
 * Python, Javascript, Django, Node, Firebase, AWS, MongoDB, MySQL, Git(github, gitlab)
@@ -144,6 +143,53 @@
 
 
 </td></tr></table> 
+
+
+# 제목
+## 제목
+### 제목
+#### 제목
+##### 제목
+###### 제목
+
+##샵과 제목 사이에 한칸을 띄워야 적용된다
+
+<br><br>
+줄바꾸기를 할때는
+엔터(enter) 2번
+
+해야 한다
+<br><br>
+# 인덱싱(순서가 있는 목록)
+1. 기존에 작성
+2. 하는 방법과
+3. 동일합니다
+
+<br><br>
+# 구분선 추가 방법
+---
+----
+----- -
+***
+****
+**** ** **
+<br><br>
+
+# 코드
+
+밑의 줄은 코드이다
+
+    private String email;
+    private String number;
+
+코드 끝
+<br><br>
+
+# 하이퍼링크
+
+1. <>안에 주소를 작성한다 <http://www.naver.com>
+2. 이렇게 [무작정 개발](http://backendcode.tistory.com) 이름에 링크를 걸 수있다
+<br><br>
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
