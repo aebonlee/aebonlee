@@ -20,8 +20,18 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aebonlee&show_icons=true&bg_color=00000000)
+
+
 <br/><br/>
 <br/><br/>
+
+
+<h3 align="center">💡 My Git Stats 💡</h3>
+<p align="center">
+  <a href="https://github.com/aebonlee">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${aebonlee}&hide=${ture}&hide_title=${ture}&show_icons=${ture}&include_all_commits=${ture}&theme=${테마}" />
+  </a>
+</p>
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=♡_LEE_AE_BON_♡&fontAlign=50&fontAlignY=40&color=gradient)
