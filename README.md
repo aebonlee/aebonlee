@@ -26,6 +26,9 @@
 <br/><br/>
 <br/><br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&langs_count=8)
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=♡_LEE_AE_BON_♡&fontAlign=50&fontAlignY=40&color=gradient)
 
 
