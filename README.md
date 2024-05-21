@@ -23,9 +23,7 @@
 
 
 
-<div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aebonlee&show_icons=true&bg_color=00000000)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aebonlee&show_icons=true&bg_color=00000000)
 <br/><br/>
 <br/><br/>
 <br/><br/>
