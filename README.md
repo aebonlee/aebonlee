@@ -77,7 +77,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> &nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTMLt&logoColor=white"/>
 <br/><br/>
 <br/><br/>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A101FF&title_bg=%235C0CAC&icon=&icon_color=%23B8ADAD&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faebonlee%2Fhit-counter&count_bg=%239119C2&title_bg=%23131212&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br/><br/>
 <br/><br/>
 
