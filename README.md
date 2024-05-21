@@ -25,7 +25,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aebonlee&show_icons=true&bg_color=00000000)
 <br/><br/>
 <br/><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&hide_progress=true)
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=♡_LEE_AE_BON_♡&fontAlign=50&fontAlignY=40&color=gradient)
 
 
