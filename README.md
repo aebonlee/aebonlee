@@ -7,6 +7,11 @@ http://www.jobability.co.kr 도메인을 연결했습니다.<br/><br/>
 다양한 서비스 개발을 위한 내용으로도 제작이 가능하고 문의 주시면 도와드리겠습니다. 
 <br/>
 <br/>
+즐거운 코딩!! 
+
+<br/>
+
+
 <a href="https://github.com/aebonlee" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>&nbsp;
