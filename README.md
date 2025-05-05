@@ -15,8 +15,10 @@
 
 - 한국직업능력개발센터 센터장  
 - 한신대학교 AI·SW 겸임교수  
-- 고용노동부/산업부 장관상 수상  
-- 훈련교사 자격 16개 분야 + ISO 인증심사원 보유
+- 고용노동부 2017년 2021년/산업자원통상부 2022년 장관상 3회 수상  
+- 직업능력개발훈련교사 자격 16개 직종 분야 자격 보유
+- 평생교육사 2급, 한국어교원 2급(3급자격 이수)
+- 정보처리, 정보기기, 컴퓨터그래픽스, 웹디자인개발, 전자출판 외 컴퓨터관련 국가기술, 국가공인 자격증 80여가지 보유
 
 ---
 
@@ -28,7 +30,7 @@
 
 ### [Whisper + GPT 기반 음성비서 챗봇](#)
 - Streamlit 기반 인터페이스 + TTS/STT 통합 파이프라인
-- 음성·텍스트 통합 AI 상담 비서 개발발
+- 음성·텍스트 통합 AI 상담 비서 개발
 
 ### [AHP 기반 직업훈련 역량 평가도구 설계](#)
 - 정책연구 기반 프레임 구축 + 논문화 진행
@@ -42,9 +44,9 @@
 
 - **언어**: Python, PyTorch,  Java, R, HTML/CSS/JS  
 - **프레임워크/도구**: Streamlit, Whisper, LangChain, KoGPT2, HuggingFace  
-- **데이터분석**: Pandas, Matplotlib, Jamovi, PowerBI  
+- **데이터분석**: Pandas, Matplotlib, Jamovi, PowerBI 등 
 - **버전관리**: Git, GitHub  
-- **시각화**: Canva, 미리캔버스, Notion, PPT
+- **시각화**: Adobe Tools, Canva, 미리캔버스, Notion, PPT 외 다수
 
 ---
 
@@ -52,14 +54,13 @@
 
 - **논문**: 사회적 지능과 학업열의 영향 분석 (JCCT, 2025) 외 다수  
 - **저서**: 컴퓨터활용능력 2급 필기 (피앤피북), ChatGPT 프롬프트 엔지니어링 외  
-- **강의**: 경기대, 단국대, 한신대, KOSA, NIPA 등 1000시간 이상
+- **강의**: 경기대, 단국대, 한신대, KOSA, NIPA 등 연 1,200시간 이상 강의
 
 ---
 
 ## 🔗 Links
 
 - **Notion 포트폴리오**: <https://www.notion.so/aebon/>  
-- **Email**: aebon@kyonggi.ac.kr
 - [Notion 포트폴리오](https://www.notion.so/aebon/Aebon-s-Information-Career-7b97e044c1d7432ab8333af05e0ac968)
 - [LinkedIn 프로필](#)
 - [강의자료 유튜브(예정)](#)
