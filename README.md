@@ -23,6 +23,7 @@
 ## 🧩 About Me
 
 1988년 코딩을 처음 시작해서 지금까지 컴퓨터와 함께한 경력의 **실무형 교육자 / 개발자 / 기획자**로서 
+
 직업훈련, 생성형 AI, Whisper 기반 챗봇, 데이터 분석, ISO 인증 시스템 등 다양한 프로젝트를 기획·운영해 왔습니다.
 
 - 한국직업능력개발센터 센터장  
@@ -56,7 +57,6 @@
 
 ### 🎨 Frontend
 <div align="center">
-
 <!-- Frameworks & UI -->
 <a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/></a>
 <a href="https://vuejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="50"/></a>
