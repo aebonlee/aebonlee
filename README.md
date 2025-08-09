@@ -63,6 +63,10 @@
   - 연간 1,200시간 이상 집체 및 비대면 교육 진행  
 
 ---
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aebonlee&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+---
 
 ## 🔗 Links
 
