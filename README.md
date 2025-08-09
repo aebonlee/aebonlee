@@ -182,6 +182,7 @@
 © 2024 **Aebon Lee** | Powered by Whisper, GPT, and lifelong curiosity.
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/aebonlee/aebonlee/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/aebonlee/aebonlee/main/dist/github-contribution-grid-snake.svg)
+
 
 
