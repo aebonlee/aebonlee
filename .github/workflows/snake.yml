@@ -2,23 +2,23 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 매일 00:00 UTC에 실행
+    - cron: "0 0 * * *"  # 매일 00:00 UTC (KST 오전 9시)
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Generate Snake SVG
+      - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: aebonlee  # ← 본인 GitHub ID로 변경
+          github_user_name: aebonlee       # ← 본인 GitHub ID 확인
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push generated files
+      - name: Commit & push
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions[bot]
