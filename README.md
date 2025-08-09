@@ -159,6 +159,11 @@
 
 ---
 
+## 🐍 Contribution Snake
+![snake gif](https://github.com/aebonlee/aebonlee/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🔗 Links
 - 🌐 [Notion 포트폴리오](https://www.notion.so/aebon/)
 - 📄 [Notion 이력서](https://www.notion.so/aebon/Aebon-s-Information-Career-7b97e044c1d7432ab8333af05e0ac968)
@@ -180,9 +185,3 @@
 </p>
 
 © 2024 **Aebon Lee** | Powered by Whisper, GPT, and lifelong curiosity.
-
-## 🐍 Contribution Snake
-![snake gif](https://github.com/aebonlee/aebonlee/blob/output/github-contribution-grid-snake.svg)
-
-
-
