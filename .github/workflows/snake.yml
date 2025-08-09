@@ -1,25 +1,28 @@
 name: Generate Snake (output branch)
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # 매일 00:00 UTC (KST 09:00)
   workflow_dispatch:
-
-permissions:
-  contents: write
+  schedule:
+    - cron: "0 0 * * *"  # 매일 자정 실행
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - name: Generate snake to output branch
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v3
+
+      - name: Generate the snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: aebonlee        # ← 본인 GitHub ID
-          # output 브랜치에 바로 커밋합니다(로컬 dist 커밋 필요 X)
-          svg_out_path: github-contribution-grid-snake.svg
-          gif_out_path: github-contribution-grid-snake.gif
+          github_user_name: aebonlee
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
