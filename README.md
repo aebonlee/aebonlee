@@ -147,14 +147,15 @@
 
 ## 📈 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&layout=compact&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&layout=compact&hide_border=true" height="160"/> 
 </div>
 
-## 📊 Dev Snapshot
+## 📈 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=algolia" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aebonlee&theme=algolia&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aebonlee&show_icons=true&hide_title=true&hide_border=true&theme=algolia" height="150" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&layout=compact&langs_count=10&card_width=500&hide_border=true&theme=tokyonight"
+    height="170"
+  />
 </div>
 
 
