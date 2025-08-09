@@ -5,6 +5,13 @@ on:
     - cron: "0 0 * * *"  # 매일 00:00 UTC (KST 오전 9시)
   workflow_dispatch:
 
+permissions:
+  contents: write  # README에 삽입할 SVG를 커밋/푸시하기 위해 필요
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,8 +22,9 @@ jobs:
       - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: aebonlee       # ← 본인 GitHub ID 확인
-          outputs: dist/github-contribution-grid-snake.svg
+          github_user_name: aebonlee            # ← 본인 GitHub ID 확인
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
       - name: Commit & push
         uses: EndBug/add-and-commit@v9
