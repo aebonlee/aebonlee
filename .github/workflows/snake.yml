@@ -2,7 +2,7 @@ name: Generate Snake (output branch)
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # 매일 00:00 UTC (KST 09:00)
   workflow_dispatch:
 
 permissions:
@@ -17,12 +17,9 @@ jobs:
       - name: Generate snake to output branch
         uses: Platane/snk@v3
         with:
-          github_user_name: aebonlee
-          # output 브랜치에 바로 쓰기
+          github_user_name: aebonlee        # ← 본인 GitHub ID
+          # output 브랜치에 바로 커밋합니다(로컬 dist 커밋 필요 X)
           svg_out_path: github-contribution-grid-snake.svg
           gif_out_path: github-contribution-grid-snake.gif
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # output 브랜치에 커밋된 것 확인용(옵션)
-      - run: echo "Generated to 'output' branch"
