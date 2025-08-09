@@ -22,9 +22,7 @@
 
 ## 🧩 About Me
 
-26년 경력의 **실무형 교육자 / 개발자 / 기획자**로서  
-직업훈련, 생성형 AI, Whisper 기반 챗봇, 데이터 분석, ISO 인증 시스템 등  
-다양한 프로젝트를 기획·운영해 왔습니다.
+1988년 코딩을 처음 시작해서 지금까지 컴퓨터와 함께한 경력의 **실무형 교육자 / 개발자 / 기획자**로서 직업훈련, 생성형 AI, Whisper 기반 챗봇, 데이터 분석, ISO 인증 시스템 등 다양한 프로젝트를 기획·운영해 왔습니다.
 
 - 한국직업능력개발센터 센터장  
 - 한신대학교 AI·SW 겸임교수  
@@ -65,7 +63,6 @@
 <a href="https://tailwindcss.com/"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50"/></a>
 <a href="https://jquery.com/"><img src="https://profilinator.rishav.dev/skills-assets/jquery.png" height="50"/></a>
 <a href="https://www.chartjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" height="50"/></a>
-
 <!-- Languages -->
 <a href="https://www.javascript.com/"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50"/></a>
@@ -75,7 +72,6 @@
 
 ### ⚙️ Backend & APIs
 <div align="center">
-
 <!-- Languages -->
 <a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/></a>
 <a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/></a>
@@ -83,7 +79,6 @@
 <a href="https://www.php.net/"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50"/></a>
 <a href="https://www.cplusplus.com/"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50"/></a>
 <a href="https://www.r-project.org/"><img src="https://profilinator.rishav.dev/skills-assets/r.svg" height="50"/></a>
-
 <!-- Frameworks & Runtimes -->
 <a href="https://nodejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50"/></a>
 <a href="https://spring.io/"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50"/></a>
@@ -92,7 +87,6 @@
 <a href="https://www.djangoproject.com/"><img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="50"/></a>
 <a href="https://dotnet.microsoft.com/"><img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" height="50"/></a>
 <a href="https://graphql.org/"><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" height="50"/></a>
-
 </div>
 
 ### 🧠 Data / AI
@@ -198,6 +192,4 @@
 </p>
 
 © 2024 **Aebon Lee** | Powered by Whisper, GPT, and lifelong curiosity.
-
-![snake gif](https://github.com/aebonlee/aebonlee/blob/output/github-contribution-grid-snake.svg)
 
