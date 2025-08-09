@@ -149,7 +149,7 @@
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&layout=compact&langs_count=12&card_width=450&hide_border=true&title_color=4A4A4A&text_color=333333&bg_color=ffffff&icon_color=FFB347"
-    height="170"
+    height="220"
   />
 </div>
 
