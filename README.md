@@ -156,7 +156,7 @@
 ---
 
 ## 📊 Activity Graph (Animated)
-[![Aebon Lee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aebonlee&theme=radical&bg_color=0D1117&color=ff79c6&line=bd93f9&point=f8f8f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aebon Lee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aebonlee&theme=radical&bg_color=ffffff&color=ff79c6&line=bd93f9&point=f8f8f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
