@@ -4,7 +4,7 @@
   <img src="./logo.jpg" height="200px" />
 </p>
 
-<h1 align="center">👩‍💻 Aebon Lee | AI & Education Specialist</h1>
+<h1 align="center">👩‍💻 Aebon Lee | AI & Education Specialist 🧩</h1>
 <h3 align="center"><i>"기술과 교육을 연결하고, 실천으로 혁신을 만드는 교육 설계자"</i></h3>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ---
 
-## 🧩 About Me
+## 💖 About Me
 
 1988년 코딩을 처음 시작해서 지금까지 컴퓨터와 함께한 경력의 **실무형 교육자 / 개발자 / 기획자**로서 
 직업훈련, 생성형 AI, Whisper 기반 챗봇, 데이터 분석, ISO 인증 시스템 등 다양한 프로젝트를 기획·운영해 왔습니다.
