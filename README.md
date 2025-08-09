@@ -148,7 +148,7 @@
 ## 📈 Top Languages
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&layout=compact&langs_count=10&card_width=600&hide_border=true&theme=gruvbox"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&layout=compact&langs_count=8&card_width=450&hide_border=true&theme=radical"
     height="170"
   />
 </div>
@@ -156,9 +156,7 @@
 ---
 
 ## 📊 Activity Graph (Animated)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aebonlee&hide_border=true&area=true&custom_title=Aebon%20Lee%20Contribution%20Graph" />
-</p>
+[![Aebon Lee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aebonlee&theme=radical&bg_color=0D1117&color=ff79c6&line=bd93f9&point=f8f8f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
