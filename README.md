@@ -147,15 +147,11 @@
 
 ## 📈 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&layout=compact&hide_border=true" height="160"/> 
-</div>
-
-## 📈 Top Languages
-<div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&layout=compact&langs_count=10&card_width=500&hide_border=true&theme=tokyonight"
     height="170"
   />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?aebonlee=anuraghazra&layout=compact)
 </div>
 
 
