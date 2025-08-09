@@ -148,11 +148,10 @@
 ## 📈 Top Languages
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&layout=compact&langs_count=10&card_width=500&hide_border=true&theme=light"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&layout=compact&langs_count=10&card_width=600&hide_border=true&theme=gruvbox"
     height="170"
   />
 </div>
-
 
 ---
 
