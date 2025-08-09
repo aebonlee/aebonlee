@@ -22,7 +22,7 @@
 
 ## 💖 About Me
 
-1988년 코딩을 처음 시작해서 지금까지 컴퓨터와 함께한 경력의 **실무형 교육자 / 개발자 / 기획자**로서 
+1988년 코딩을 처음 시작해서 지금까지 컴퓨터와 함께한 경력의 **실무형 교육자 / 개발자 / 기획자**로서 <br/>
 직업훈련, 생성형 AI, Whisper 기반 챗봇, 데이터 분석, ISO 인증 시스템 등 다양한 프로젝트를 기획·운영해 왔습니다.
 
 - 현) 한국직업능력개발센터 센터장  
@@ -148,6 +148,17 @@
 ## 📈 Top Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&layout=compact&hide_border=true" height="160"/>
+</div>
+## 📈 Top Languages & Repo Stats
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&layout=compact&langs_count=8&card_width=350&hide_border=true&theme=radical"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aebonlee&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&hide_border=true&theme=radical"
+    height="160"
+  />
 </div>
 
 ---
