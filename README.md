@@ -148,7 +148,7 @@
 ## 📈 Top Languages
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&layout=compact&langs_count=8&card_width=450&hide_border=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&layout=compact&langs_count=8&card_width=450&hide_border=true&theme=solarized-light"
     height="170"
   />
 </div>
