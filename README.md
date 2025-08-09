@@ -149,17 +149,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&layout=compact&hide_border=true" height="160"/>
 </div>
-## 📈 Top Languages & Repo Stats
+
+## 📊 Dev Snapshot
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&layout=compact&langs_count=8&card_width=350&hide_border=true&theme=radical"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aebonlee&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&hide_border=true&theme=radical"
-    height="160"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=algolia" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aebonlee&theme=algolia&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aebonlee&show_icons=true&hide_title=true&hide_border=true&theme=algolia" height="150" />
 </div>
+
 
 ---
 
