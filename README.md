@@ -140,7 +140,7 @@
 ## 📊 GitHub Stats & Streak
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aebonlee&show_icons=true&count_private=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aebonlee&hide_border=true&theme=default" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aebonlee&theme=default" height="160"/>
 </div>
 
 ---
