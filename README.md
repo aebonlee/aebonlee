@@ -171,6 +171,7 @@
 - 📄 [Notion 이력서](https://www.notion.so/aebon/Aebon-s-Information-Career-7b97e044c1d7432ab8333af05e0ac968)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aebon/)
 - 🎥 [YouTube (예정)](https://www.youtube.com/@%EC%9D%B4%EC%95%A0%EB%B3%B8%EA%B5%90%EC%88%98%EC%9D%98%EC%97%AD%EB%9F%89%EA%B8%B0%EB%B0%98)
+- 🌐 [Orcid.org](https://orcid.org/0009-0005-4051-289X)
 
 ---
 
