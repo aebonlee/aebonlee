@@ -176,7 +176,7 @@
 ---
 
 ## 📬 Contact
-📧 **Email**: aebon@kyonggi.ac.kr  
+📧 **Email**: aebon@kyonggi.ac.kr, aebon@hs.ac.kr  
 
 > 더 나은 기술 교육을 고민하는 모든 분과 협업하고 싶습니다.  
 > **Feel free to connect!**
