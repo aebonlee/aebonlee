@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <!-- 화면 크기에 따라 자연스럽게 보이도록 설정 -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>자기소개서 - 이애본(예시)</title>
+
+  <style>
+    /* ============================
+       전체 기본 스타일
+       ============================ */
+    :root {
+      /* 색상 테마: 필요하면 여기만 바꾸면 전체 색이 바뀜 */
+      --bg: #f4f5f7;
+      --card: #ffffff;
+      --accent: #3f72af;
+      --text: #1f2933;
+      --muted: #6b7280;
+    }
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      margin: 0;
+      background: var(--bg);
+      font-family: "Segoe UI", "맑은 고딕", system-ui, -apple-system, sans-serif;
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    /* 페이지 전체를 가운데로 모으는 래퍼 */
+    .page {
+      max-width: 920px;   /* A4 느낌으로 폭 제한 */
+      margin: 40px auto;
+      padding: 0 16px;
+    }
+
+    /* ============================
+       헤더 영역
+       ============================ */
+    header {
+      background: linear-gradient(135deg, #3f72af, #112d4e);
+      color: #fff;
+      padding: 36px 32px 40px;
+      border-radius: 20px;
+      position: relative;
+      overflow: hidden;
+      box-shadow: 0 15px 40px rgba(17,45,78,0.25);
+    }
+
+    /* 장식용 원형 - 순수 CSS로 포인트만 준 것 */
+    header::after {
+      content: "";
+      position: absolute;
+      top: -90px;
+      right: -90px;
+      width: 190px;
+      height: 190px;
+      border: 22px solid rgba(255,255,255,0.15);
+      border-radius: 50%;
+    }
+
+    .profile-top {
+      display: flex;
+      gap: 24px;
+      align-items: center;
+    }
+
+    /* 프로필 이미지 대체 영역 - 실제론 img로 교체 가능 */
+    .avatar {
+      width: 110px;
+      height: 110px;
+      border-radius: 24px;
+      background: rgba(255,255,255,0.08);
+      border: 2px solid rgba(255,255,255,0.35);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 32px;
+      letter-spacing: 1px;
+    }
+
+    .intro-headline h1 {
+      margin: 0;
+      font-size: 30px;
+      letter-spacing: -0.6px;
+    }
+
+    .intro-headline p {
+      margin: 6px 0 0;
+      color: rgba(255,255,255,0.8);
+    }
+
+    /* 연락처 정보 */
+    .contact-line {
+      margin-top: 18px;
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      font-size: 14px;
+      color: rgba(255,255,255,0.9);
+    }
+    .contact-item {
+      background: rgba(255,255,255,0.12);
+      padding: 3px 10px 4px;
+      border-radius: 999px;
+    }
+
+    /* ============================
+       본문 공통 카드 스타일
+       ============================ */
+    .section {
+      margin-top: 28px;
+    }
+    .card {
+      background: var(--card);
+      border-radius: 16px;
+      padding: 24px 24px 18px;
+      box-shadow: 0 12px 30px rgba(15,23,42,0.04);
+      border: 1px solid rgba(63,114,175,0.08);
+    }
+
+    .section-title {
+      font-size: 18px;
+      margin-bottom: 14px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .section-title::before {
+      content: "";
+      width: 14px;
+      height: 14px;
+      background: var(--accent);
+      border-radius: 4px;
+      display: inline-block;
+    }
+
+    /* ============================
+       2단 구성
+       ============================ */
+    .content-grid {
+      display: grid;
+      grid-template-columns: 1.15fr 0.85fr;
+      gap: 18px;
+      margin-top: 18px;
+    }
+    /* 작은 화면에서는 한 줄로 */
+    @media (max-width: 768px) {
+      .content-grid {
+        grid-template-columns: 1fr;
+      }
+      header {
+        border-radius: 0 0 20px 20px;
+      }
+      .profile-top {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+
+    /* ============================
+       리스트/태그 스타일
+       ============================ */
+    .tag-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin: 10px 0 4px;
+    }
+    .tag {
+      background: rgba(63,114,175,0.12);
+      color: #173f5f;
+      padding: 4px 12px;
+      border-radius: 999px;
+      font-size: 13px;
+    }
+
+    .timeline {
+      border-left: 2px solid rgba(63,114,175,0.28);
+      margin-top: 12px;
+      padding-left: 16px;
+    }
+    .timeline-item {
+      margin-bottom: 14px;
+      position: relative;
+    }
+    .timeline-item::before {
+      content: "";
+      position: absolute;
+      left: -24px;
+      top: 3px;
+      width: 12px;
+      height: 12px;
+      background: var(--accent);
+      border-radius: 50%;
+      box-shadow: 0 0 0 4px rgba(63,114,175,0.12);
+    }
+    .timeline-title {
+      font-weight: 600;
+    }
+    .timeline-meta {
+      font-size: 13px;
+      color: var(--muted);
+    }
+
+    /* 자기소개 본문 글 */
+    .essay p {
+      margin-bottom: 12px;
+      text-align: justify; /* 문단 균등 정렬 */
+    }
+
+    /* 푸터 */
+    footer {
+      text-align: center;
+      font-size: 12px;
+      color: #9ca3af;
+      margin: 26px 0 44px;
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <!-- =====================================
+         상단 헤더 : 이름, 직무, 연락처
+         ===================================== -->
+    <header>
+      <div class="profile-top">
+        <!-- 
+          실제 사진을 넣고 싶다면 아래 div.avatar 대신
+          <img src="사진경로.jpg" alt="프로필 사진" class="avatar-img"> 처럼 사용
+        -->
+        <div class="avatar">
+          <!-- 이니셜 -->
+          AL
+        </div>
+        <div class="intro-headline">
+          <h1>이애본</h1>
+          <p>AI·데이터 분석 강사 / 교육과정 설계 전문가 / 웹 개발자</p>
+          <div class="contact-line">
+            <!-- 이 부분은 필요한 것만 남겨도 됨 -->
+            <span class="contact-item">📧 aebon@example.com</span>
+            <span class="contact-item">📱 010-1234-5678</span>
+            <span class="contact-item">🌐 https://github.com/aebon</span>
+            <span class="contact-item">📍 경기도 수원시</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- =====================================
+         본문 영역
+         ===================================== -->
+    <main class="content-grid">
+      <!-- ========== 왼쪽 큰 컬럼 ========== -->
+      <section>
+        <!-- 자기소개서 본문 -->
+        <div class="section card">
+          <h2 class="section-title">1. 성장 과정 & 강점</h2>
+          <div class="essay">
+            <p>
+              저는 2003년 첫 창업을 시작으로, IT 교육과 데이터 분석, 그리고 인공지능 서비스까지
+              현장의 변화를 직접 경험하며 성장해온 실무형 강사입니다. 빠르게 바뀌는 기술 환경 속에서도
+              “배운 것을 실제로 써먹게 한다”는 교육 철학을 지켜왔고, 수강생들이 바로 현장에 투입될 수 있는
+              커리큘럼을 설계하는 데 강점을 가지고 있습니다.
+            </p>
+            <p>
+              특히 다양한 연령대와 배경을 가진 학습자를 지도하면서, 교육 대상에 따라 설명 방식을 바꾸고
+              실습 난이도를 조절하는 노하우를 쌓았습니다. 그 결과 기업 교육에서는 실무 프로젝트 중심으로,
+              대학 강의에서는 개념→실습→응용의 흐름으로, 공공기관 과정에서는 문서화와 보고서 중심으로
+              커스터마이징된 강의를 진행해 왔습니다.
+            </p>
+          </div>
+        </div>
+
+        <!-- 지원동기/입사 후 포부 -->
+        <div class="section card">
+          <h2 class="section-title">2. 지원 동기 & 입사 후 포부</h2>
+          <div class="essay">
+            <p>
+              귀 기관이 추진하고 있는 “AI 활용 역량 강화” 방향성이 제가 그동안 준비해온 경력과 정확히 맞닿아 있어
+              지원하게 되었습니다. 저는 단순히 도구 사용법만 전달하는 강사가 아니라,
+              조직이 가진 데이터를 어떻게 교육 콘텐츠로 전환하고, 그 결과를 어떻게 평가 체계에 반영할지까지
+              함께 설계할 수 있는 사람입니다.
+            </p>
+            <p>
+              입사 후에는 첫째, 기존 교과과정의 생성형 AI 활용 파트를 체계화하고,
+              둘째, 사전·사후 평가를 자동화하여 학습 효과를 수치로 보여주는 대시보드형 보고 체계를 만들고자 합니다.
+              셋째, 사내 프로젝트와 연계 가능한 실습형 과제를 도입해 “교육-현업-성과”가 연결되는 구조를
+              정착시키겠습니다.
+            </p>
+          </div>
+        </div>
+
+        <!-- 보유 기술 -->
+        <div class="section card">
+          <h2 class="section-title">3. 보유 역량</h2>
+          <p style="margin-bottom: 6px;">아래는 제가 실제로 강의하거나 프로젝트에 활용한 기술들입니다.</p>
+          <div class="tag-list">
+            <span class="tag">HTML/CSS/JS</span>
+            <span class="tag">Python (데이터분석)</span>
+            <span class="tag">PyTorch 기초</span>
+            <span class="tag">Oracle SQL 튜닝</span>
+            <span class="tag">생성형 AI(챗봇)</span>
+            <span class="tag">교육과정 설계</span>
+            <span class="tag">AHP·의사결정지원</span>
+            <span class="tag">Notion/Padlet 운영</span>
+          </div>
+          <p style="font-size: 13px; color: var(--muted); margin-top: 10px;">
+            * 필요 시 강의안·실습 코드·보고서 양식까지 패키지로 제작 가능합니다.
+          </p>
+        </div>
+      </section>
+
+      <!-- ========== 오른쪽 작은 컬럼 ========== -->
+      <aside>
+        <!-- 학력/경력 타임라인 -->
+        <div class="section card">
+          <h2 class="section-title">학력 & 주요 이력</h2>
+          <div class="timeline">
+            <div class="timeline-item">
+              <div class="timeline-title">직업능력개발훈련교사 / AI 강의</div>
+              <div class="timeline-meta">2014 ~ 현재</div>
+              <p style="margin: 4px 0 0; font-size: 13px;">공공·대학·기업 대상 AI·데이터·웹 과정 운영</p>
+            </div>
+            <div class="timeline-item">
+              <div class="timeline-title">대학원 직업학과 (석·박사 과정 연구)</div>
+              <div class="timeline-meta">2012 ~ </div>
+              <p style="margin: 4px 0 0; font-size: 13px;">훈련교사 역량·AI 활용 교수법 연구</p>
+            </div>
+            <div class="timeline-item">
+              <div class="timeline-title">IT·교육기업 창업 및 운영</div>
+              <div class="timeline-meta">2003 ~ 2009</div>
+              <p style="margin: 4px 0 0; font-size: 13px;">현장 요구 반영한 교육 콘텐츠 기획/납품</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- 자기 PR 한 줄 -->
+        <div class="section card">
+          <h2 class="section-title">핵심 PR</h2>
+          <p style="margin-top: 0;">
+            “수강생이 끝까지 따라오는 강의”를 만드는 것이 저의 가장 큰 강점입니다.
+            어려운 내용을 실습과 예제로 풀어 설명하고, 교육 이후에도 쓸 수 있는 자료를 남깁니다.
+          </p>
+        </div>
+
+        <!-- 취미/관심사 -->
+        <div class="section card">
+          <h2 class="section-title">관심 분야</h2>
+          <div class="tag-list">
+            <span class="tag">생성형 AI 교육</span>
+            <span class="tag">웹 프론트엔드</span>
+            <span class="tag">HRD·HRM 연구</span>
+            <span class="tag">ESG·사회적경제</span>
+          </div>
+        </div>
+      </aside>
+    </main>
+
+    <!-- 푸터 -->
+    <footer>
+      <!-- 제출용이면 이 부분은 지워도 됨 -->
+      © 2025 이애본. 이 자기소개서는 순수 HTML로 작성된 데모 버전입니다.
+    </footer>
+  </div>
+</body>
+</html>
