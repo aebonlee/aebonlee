@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">👩‍💻 Aebon Lee | AI & Education Specialist 🧩</h1>
-<h3 align="center"><i>"기술과 교육을 연결하고, 실천으로 혁신을 만드는 교육 설계자, 교수자자"</i></h3>
+<h3 align="center"><i>"기술과 교육을 연결하고, 실천으로 혁신을 만드는 교육 설계자, 교수자"</i></h3>
 
 <p align="center">
   <!-- Animated typing SVG -->
