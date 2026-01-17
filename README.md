@@ -132,30 +132,6 @@
 
 ---
 
-## 🏆 GitHub Trophy (Animated)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aebonlee&theme=flat&no-frame=true&margin-w=8&margin-h=8&row=1&column=6" />
-</p>
-
----
-
-## 📊 GitHub Stats & Streak
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aebonlee&show_icons=true&count_private=true&hide_border=true" height="160"/>
-</div>
-
----
-
-## 📈 Top Languages
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aebonlee&layout=compact&langs_count=12&card_width=450&hide_border=true&title_color=4A4A4A&text_color=333333&bg_color=ffffff&icon_color=FFB347"
-    height="220"
-  />
-</div>
-
----
-
 ## 🔥 Activity Graph (Animated)
 [![Aebon Lee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aebonlee&theme=radical&bg_color=ffffff&color=6439F7&line=bd93f9&point=f8f8f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
