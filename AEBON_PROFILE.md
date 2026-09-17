@@ -6,6 +6,8 @@ alternate_names:
   - "Ae Bon Lee"
   - "Ae-Bon Lee"
 type: "Person"
+canonical_person_id: "https://aebon.dreamitbiz.com/#person"
+public_profile: "https://aebon.dreamitbiz.com/"
 roles:
   - "AI & Education Specialist"
   - "Software Developer"
@@ -81,5 +83,7 @@ DreamIT Biz의 각 학습·연구·AI 서비스는 목적과 대상이 서로 �
 
 ---
 Canonical entity: Aebon Lee / 이애본
+Canonical person ID: https://aebon.dreamitbiz.com/#person
+Public profile: https://aebon.dreamitbiz.com/
 Company: https://www.dreamitbiz.com
 GitHub: https://github.com/aebonlee
