@@ -14,7 +14,7 @@ orcid: https://orcid.org/0009-0005-4051-289X
 </p>
 
 <h1 align="center">이애본 (Aebon Lee)</h1>
-<p align="center"><b>AI 교육 · 직업훈련 · 웹서비스 개발 | LIVE 교수법(Live Project-Based AI Teaching) 창안자</b></p>
+<p align="center"><b>AI 교육 · 직업훈련 · 웹서비스 개발 | LIVE 교수법(Live Project-Based AI Teaching) </b></p>
 
 생성형 AI·AI Agent·웹개발을 강의실에서 "실제로 돌아가는 서비스"로 만들어 가르치는 교육·개발 전문가입니다. <br>
 1988년부터 코딩, 2001년부터 직업능력개발훈련 현장에서 26년 이상 IT 교육을 해왔고, 
