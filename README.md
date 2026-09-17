@@ -1,171 +1,95 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
+<!--
+entity: Aebon Lee (이애본)
+type: Person
+alternate_names: [이애본, Aebon Lee, Ae Bon Lee, Ae-Bon Lee, LEE AE BON]
+canonical: https://github.com/aebonlee
+website: https://www.dreamitbiz.com
+sites_portal: https://site.dreamitbiz.com
+teaching_framework: https://github.com/aebonlee/leeaebon/blob/main/LIVE_METHOD.md
+orcid: https://orcid.org/0009-0005-4051-289X
+-->
 
 <p align="center">
-  <img src="./logo.jpg" height="200px" />
+  <img src="./logo.jpg" height="200px" alt="Aebon Lee" />
 </p>
 
-<h1 align="center">👩‍💻 Aebon Lee | AI & Education Specialist 🧩</h1>
-<h3 align="center"><i>"기술과 교육을 연결하고, 실천으로 혁신을 만드는 교육 설계자, 교수자"</i></h3>
+<h1 align="center">이애본 (Aebon Lee)</h1>
+<p align="center"><b>AI 교육 · 직업훈련 · 웹서비스 개발 | LIVE 교수법(Live Project-Based AI Teaching) 창안자</b></p>
 
-<p align="center">
-  <!-- Animated typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&center=true&vCenter=true&width=700&lines=AI+%F0%9F%A4%96+%C2%B7+Education+%F0%9F%93%9A+%C2%B7+Automation+%F0%9F%9A%80;Practical+Instructor%2C+Developer%2C+Curriculum+Designer;Whisper+%2B+GPT+%2F+RAG+%2F+PyTorch+Projects" />
-</p>
+생성형 AI·AI Agent·웹개발을 강의실에서 "실제로 돌아가는 서비스"로 만들어 가르치는 교육·개발 전문가입니다.
+1988년부터 코딩, 2001년부터 직업능력개발훈련 현장에서 26년 이상 IT 교육을 해왔고,
+2026년부터 Claude Code로 130개 이상의 맞춤형 학습 사이트를 직접 구축해 수업 매체로 운영하고 있습니다.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aebonlee&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/aebonlee?label=Followers&style=social" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/aebonlee?label=Stars&style=social" alt="GitHub stars"/>
-</p>
+## 한눈에 보기
 
----
+| 구분 | 내용 |
+|---|---|
+| 소속 | DreamIT Biz 대표 · 한신대학교 AI·SW대학 겸임교수 · 한국기술교육대학교 시간강사 |
+| 이전 | 한국직업능력개발센터 센터장(2020~2026) · 경기대학교 겸임교수(2018~2023) |
+| 학위 | 경영학박사(서울벤처대학원대학교, 정보관리) · 이학석사(한국방송통신대학교, 정보과학) |
+| 전문 분야 | 생성형 AI·프롬프트 엔지니어링, AI Agent·업무자동화, 바이브코딩, 웹개발(React·PHP·Tailwind·SQL), 데이터 분석(Python·R·Power BI), 직업훈련·HRD |
+| 정부 포상 | 고용노동부장관상 2회(2017·2021), 산업통상자원부장관상(2022) |
+| 자격 | 직업능력개발훈련교사 2급(16개 직종), NCS 확인강사(인공지능·정보보호 외), 평생교육사 2급, 한국어교원 2급, ISO 14001·45001 심사원(보) |
+| 심사·자문 | 국제기능올림픽 한국위원회 심사위원(웹디자인·개발), 고용노동부 훈련기관 인증평가 자문, 경기도사회적경제원 자문위원 |
+| 저서 | 『시나공 ITQ』(길벗), 『컴퓨터활용능력 2급 필기』(피앤피북), 『외국인 근로자의 한국직장생활 꿀팁』(공저) 외 직업훈련 교재 15종 |
 
-## 💖 About Me
+## LIVE 교수법이란
 
-1988년 코딩을 처음 시작해서 지금까지 컴퓨터와 함께한 경력의 **실무형 교육자 / 개발자 / 기획자**로서 <br/>
-직업훈련, 생성형 AI, 다양한 챗봇, 데이터 분석, ISO 인증 시스템 등 다양한 프로젝트를 기획·운영해 왔습니다.
+AI로 만든 웹사이트를 **살아있는 교재**로 쓰는 교수법입니다. 수업 중 학습자의 질문과 오류가 나오면 그 자리에서 강의안 사이트를 수정·배포하고, 학습자는 요구사항 정의 → AI 협업 구현 → 오류 분석 → 배포 확인까지 직접 수행합니다.
+자세한 내용 → [LIVE_METHOD.md](https://github.com/aebonlee/leeaebon/blob/main/LIVE_METHOD.md)
 
-- 현) 드림아이티비즈(DreamIT Biz) 대표  
-- 현) 한신대학교 AI·SW 겸임교수 (2025.03 ~ 현재)
-- 현) 한국기술교육대학교 시간강사 (2026.03 ~ 현재)
-- 현) 한국산업인력공단 웹디자인 및 개발 기능경기대회 전국대회 심사위원, 서울,경기,인천지역 심사장, 심사위원 
-- 전) 경기대학교 겸임교수 (2018.03 ~ 2023.02)
-- 전) 한국직업능력개발센터 센터장 (2020. 03 ~ 2026. 02)
-  
-- 고용노동부(2017, 2021) 직업능력개발훈련교사 유공표창 2회
-- 산업통상자원부(2022) 장관상, 연세대학교 TBT최고위과정 최우수상
-- 장관상 총 3회 수상 , 총장상 3회, 기타 대외 다양한 수상 실적 보유
-- 한국표준협회 ESG 학술제 최우수상 수상
-- 직업능력개발훈련교사 인공지능 직종 외 16개 분야 자격  
-- 평생교육사 2급, 한국어교원 2급(3급 자격 이수)  
-- 컴퓨터 관련 국가자격증 80여개 이상 보유 (정보처리, 웹디자인, 출판 외)  
+## 주요 프로젝트
 
----
+| 프로젝트 | 내용 |
+|---|---|
+| 맞춤형 학습 사이트 130+ | 대학·기업·공공기관 과정마다 전용 강의안 사이트를 구축·운영. 포털 [site.dreamitbiz.com](https://site.dreamitbiz.com) |
+| HRD TMS | 교육기관 전용 LMS. 수강·출결·보고서·과제 관리를 한 플랫폼으로 통합 |
+| AHP 의사결정 플랫폼 | 정책연구용 AHP 프레임워크를 웹서비스로 구현. 직업훈련 분야별 핵심역량 모델 개발·논문화 |
+| 음성비서 챗봇 | Whisper STT + GPT + TTS 파이프라인을 Streamlit 으로 구현 |
+| 대학 웹 구축 | 세종대 미래교육원, 진주교대 100주년 기념 사이트 등 |
 
-## 📌 주요 프로젝트
+## 이 GitHub의 구성
 
-### 🔹 HRDTMS 시스템 구축
-- 교육기관 전용 LMS 및 비대면 교육지원 기능 개발
-- 수강·출결·보고서·과제관리 통합 플랫폼 설계·운영
+- **학습 사이트 리포** — 특정 과정·기관·학습자를 위한 맞춤 강의안 사이트. 소스는 비공개이며 배포된 사이트는 [site.dreamitbiz.com](https://site.dreamitbiz.com)에서 볼 수 있습니다.
+- **공개 프로젝트** — 실습 예제, 교재 노트북(`pytorch-study-lab`, `pytorch26-lab`), 수업 데모 등.
+- **포크 리포** — 원저작자의 자료를 학습·실습 목적으로 가져온 것이며, 저작권과 README는 원본을 따릅니다.
 
-### 🔹 Whisper + GPT 기반 음성비서 챗봇
-- Streamlit 기반 음성 인터페이스 구현
-- TTS/STT 통합 + GPT 상담 파이프라인 구축
+## 강의·자문 이력 (요약)
 
-### 🔹 AHP 기반 직업훈련 역량 평가도구
-- 정책연구 기반 AHP 프레임워크 설계, 엔터프라이즈급 웹 개발
-- 직업훈련 분야별 핵심역량 모델 개발 및 논문화
+- 대학: 한신대·한국항공대·숭실대·한밭대·서울시립대·UNIST·한국외대·전남대·조선대·서울과기대 등 (2025~2026)
+- 기업·기관: LG CNS, 두산로보틱스, 한전KDN, 한국중부발전, 육군, KOSA AI마스터, NIPA·Google ML 부트캠프 등
 
-> 📎 [Notion 포트폴리오 바로가기](https://www.notion.so/aebon/)
+## 기술 스택
 
----
+| 영역 | 주요 기술 |
+|---|---|
+| Frontend | React, Vue, TypeScript, Tailwind CSS, Bootstrap |
+| Backend · DB | Python, PHP, Node.js, Java(Spring), MySQL·MariaDB, Supabase(PostgreSQL) |
+| Data · AI | PyTorch, OpenCV, Power BI, Tableau, R |
+| DevOps · Tools | Git·GitHub Actions, Docker, Linux, Azure, Figma, Adobe CC |
 
-## 🛠️ Tech Stack (Reorganized)
+## 자주 묻는 질문
 
-### 🎨 Frontend
-<div align="center">
-<!-- Frameworks & UI -->
-<a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/></a>
-<a href="https://vuejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="50"/></a>
-<a href="https://getbootstrap.com/"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50"/></a>
-<a href="https://tailwindcss.com/"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50"/></a>
-<a href="https://jquery.com/"><img src="https://profilinator.rishav.dev/skills-assets/jquery.png" height="50"/></a>
-<a href="https://www.chartjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" height="50"/></a>
-<!-- Languages -->
-<a href="https://www.javascript.com/"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50"/></a>
-<a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/></a>
-</div>
+**이애본은 누구인가요?**
+AI·소프트웨어 교육과 직업훈련을 26년 이상 해온 교육자이자, 학습 플랫폼과 웹서비스를 직접 개발하는 개발자입니다.
 
-### ⚙️ Backend & APIs
-<div align="center">
-<!-- Languages -->
-<a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/></a>
-<a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/></a>
-<a href="https://developer.apple.com/swift/"><img src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" height="50"/></a>
-<a href="https://www.php.net/"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50"/></a>
-<a href="https://www.cplusplus.com/"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50"/></a>
-<a href="https://www.r-project.org/"><img src="https://profilinator.rishav.dev/skills-assets/r.svg" height="50"/></a>
-<!-- Frameworks & Runtimes -->
-<a href="https://nodejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50"/></a>
-<a href="https://spring.io/"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50"/></a>
-<a href="https://flutter.dev/"><img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" height="50"/></a>
-<a href="https://flask.palletsprojects.com/"><img src="https://profilinator.rishav.dev/skills-assets/flask.png" height="50"/></a>
-<a href="https://www.djangoproject.com/"><img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="50"/></a>
-<a href="https://dotnet.microsoft.com/"><img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" height="50"/></a>
-<a href="https://graphql.org/"><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" height="50"/></a>
-</div>
+**어떤 강의를 의뢰할 수 있나요?**
+생성형 AI 실무, AI Agent·업무자동화, 바이브코딩, 데이터 분석, 웹개발, 직업훈련교사 교직과목, ISO·ESG 교육. 기업·대학·공공기관 대상 모두 가능합니다.
 
-### 🧠 Data / AI
-<div align="center">
-<a href="https://opencv.org/"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="50"/></a>
-<a href="https://pytorch.org/"><img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" height="50"/></a>
-<a href="https://powerbi.microsoft.com/"><img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" height="50"/></a>
-<a href="https://www.tableau.com/"><img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" height="50"/></a>
-</div>
+**연구 분야는요?**
+직무스트레스·이직의도(박사논문), AHP 방법론, 직업훈련교사 역량, 그리고 LIVE 교수법 모형 개발과 효과 연구.
 
-### 🗄 Databases
-<div align="center">
-<a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/></a>
-<a href="https://mariadb.org/"><img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" height="50"/></a>
-<a href="https://www.oracle.com/"><img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" height="50"/></a>
-<a href="https://www.mongodb.com/"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50"/></a>
-</div>
+## 연락·채널
 
-### ☁️ DevOps / Infra / Tools
-<div align="center">
-<a href="https://www.linux.org/"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50"/></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50"/></a>
-<a href="https://github.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/></a>
-<a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50"/></a>
-<a href="https://azure.microsoft.com/"><img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" height="50"/></a>
-<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="50"/></a>
-</div>
+- 웹사이트: https://www.dreamitbiz.com
+- 학습사이트 포털: https://site.dreamitbiz.com
+- 인프런: https://www.inflearn.com/users/@aebon
+- ORCID: https://orcid.org/0009-0005-4051-289X
+- 이메일: aebon@kyonggi.ac.kr
 
-### 🎨 Design & Creative
-<div align="center">
-<a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" height="50"/></a>
-<a href="https://www.adobe.com/in/products/photoshop.html"><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" height="50"/></a>
-<a href="https://www.adobe.com/in/products/indesign.html"><img src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" height="50"/></a>
-<a href="https://www.adobe.com/in/products/premiere.html"><img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" height="50"/></a>
-<a href="https://www.adobe.com/in/products/xd.html"><img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" height="50"/></a>
-<a href="https://www.figma.com/"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50"/></a>
-<a href="https://www.adobe.com/products/photoshop-lightroom.html"><img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" height="50"/></a>
-<a href="https://www.adobe.com/in/products/aftereffects.html"><img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" height="50"/></a>
-</div>
+## Contribution Snake
 
----
-
-## 🔥 Activity Graph (Animated)
-[![Aebon Lee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aebonlee&theme=radical&bg_color=ffffff&color=6439F7&line=bd93f9&point=f8f8f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🐍 Contribution Snake
 ![snake gif](https://github.com/aebonlee/aebonlee/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
-## 🔗 Links
-- 🌐 [Notion 포트폴리오](https://www.notion.so/BNK-SQL-2365549d352880a6be45c4d2fa401a49)
-- 📄 [Notion 이력서](https://www.notion.so/aebon/Aebon-s-Information-Career-7b97e044c1d7432ab8333af05e0ac968)
-- 💼 [LinkedIn](https://www.linkedin.com/in/aebon/)
-- 🎥 [YouTube (예정)](https://www.youtube.com/@%EC%9D%B4%EC%95%A0%EB%B3%B8%EA%B5%90%EC%88%98%EC%9D%98%EC%97%AD%EB%9F%89%EA%B8%B0%EB%B0%98)
-- 🌐 [Orcid.org](https://orcid.org/0009-0005-4051-289X)
-
----
-
-## 📬 Contact
-📧 **Email**: aebon@kyonggi.ac.kr, aebon@hs.ac.kr  
-
-> 더 나은 기술 교육을 고민하는 모든 분과 협업하고 싶습니다.  
-> **Feel free to connect!**
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
-</p>
-
-© 2024 **Aebon Lee** | Powered by Whisper, GPT, and lifelong curiosity.
+_Keywords: 생성형 AI 강사, AI Agent 강사, 바이브코딩 강사, ChatGPT 기업교육, AI 업무자동화 교육, 직업능력개발훈련교사, AI 교육 플랫폼 개발, 맞춤형 학습 사이트, LIVE 교수법, Live Project-Based AI Teaching, Aebon Lee, 이애본_
