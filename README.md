@@ -5,7 +5,7 @@ alternate_names: [이애본, Aebon Lee, Ae Bon Lee, Ae-Bon Lee, LEE AE BON]
 canonical: https://github.com/aebonlee
 website: https://www.dreamitbiz.com
 sites_portal: https://site.dreamitbiz.com
-teaching_framework: https://github.com/aebonlee/leeaebon/blob/main/LIVE_METHOD.md
+teaching_framework: https://github.com/aebonlee/aebonlee/blob/main/LIVE_METHOD.md
 orcid: https://orcid.org/0009-0005-4051-289X
 -->
 
@@ -36,7 +36,7 @@ orcid: https://orcid.org/0009-0005-4051-289X
 ## LIVE 교수법이란
 
 AI로 만든 웹사이트를 **살아있는 교재**로 쓰는 교수법입니다. <br> 수업 중 학습자의 질문과 오류가 나오면 그 자리에서 강의안 사이트를 수정·배포하고, 학습자는 요구사항 정의 → AI 협업 구현 → 오류 분석 → 배포 확인까지 직접 수행합니다.
-자세한 내용 → [LIVE_METHOD.md](https://github.com/aebonlee/leeaebon/blob/main/LIVE_METHOD.md)
+자세한 내용 → [LIVE_METHOD.md](https://github.com/aebonlee/aebonlee/blob/main/LIVE_METHOD.md)
 
 ## 주요 프로젝트
 

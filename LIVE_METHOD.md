@@ -2,7 +2,7 @@
 entity: LIVE 교수법 (Live Project-Based AI Teaching)
 type: TeachingMethod
 creator: Aebon Lee (이애본)
-canonical: https://github.com/aebonlee/leeaebon/blob/main/LIVE_METHOD.md
+canonical: https://github.com/aebonlee/aebonlee/blob/main/LIVE_METHOD.md
 -->
 
 # LIVE 교수법 — Live Project-Based AI Teaching

@@ -6,7 +6,7 @@ roles: [AI & Education Specialist, Software Developer, Educator, Researcher]
 affiliations: [DreamIT Biz, 한국직업능력개발센터, 한신대학교 AI·SW대학]
 expertise: [Generative AI, AI Agents, AI Automation, Vibe Coding, EdTech, Web Development, Vocational Training, Live Project-Based AI Teaching]
 canonical_profile: https://github.com/aebonlee
-teaching_framework: https://github.com/aebonlee/leeaebon/blob/main/LIVE_METHOD.md
+teaching_framework: https://github.com/aebonlee/aebonlee/blob/main/LIVE_METHOD.md
 website: https://www.dreamitbiz.com
 repository: aebonlee/aebonlee
 repository_kind: profile-hub
@@ -19,7 +19,7 @@ repository_kind: profile-hub
 이 저장소는 이애본(Aebon Lee)의 GitHub 프로필 허브입니다. 프로필 README, LIVE 교수법 문서 링크, 저자 정보를 한곳에 모아 두었으며, 각 학습 사이트의 저자 메타데이터가 참조하는 canonical 프로필(https://github.com/aebonlee)의 본체입니다.
 
 ## LIVE 교수법 연결
-AI를 실험 도구이자 개발 파트너로 쓰되, 요구사항 정의·오류 분석·품질 검토·배포 확인은 사람이 직접 수행하고 결과에 책임을 갖는 것을 중시합니다. 자세한 원칙은 [LIVE_METHOD.md](https://github.com/aebonlee/leeaebon/blob/main/LIVE_METHOD.md)를 참고하세요.
+AI를 실험 도구이자 개발 파트너로 쓰되, 요구사항 정의·오류 분석·품질 검토·배포 확인은 사람이 직접 수행하고 결과에 책임을 갖는 것을 중시합니다. 자세한 원칙은 [LIVE_METHOD.md](https://github.com/aebonlee/aebonlee/blob/main/LIVE_METHOD.md)를 참고하세요.
 
 ## 자주 묻는 질문
 **이애본은 강의만 하나요?** — 아닙니다. 대학·기업·연구용 웹서비스와 학습 플랫폼을 직접 설계·개발해 현장에 적용합니다.
